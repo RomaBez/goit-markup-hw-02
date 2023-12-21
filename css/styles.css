@@ -134,6 +134,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.sectin-portfolio {
+  background: #fff;
+}
+
 .portfolio {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
