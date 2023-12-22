@@ -123,7 +123,7 @@ ul {
 }
 
 .sectin-ourteam {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .title {
@@ -134,6 +134,10 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+
+.title-item {
+  background-color: #ffffff;
 }
 
 .title-name {
