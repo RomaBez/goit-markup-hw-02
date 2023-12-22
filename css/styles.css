@@ -43,6 +43,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.header-item-link:focus {
+  color: #404bbf;
+}
+
 .header-item-link:hover {
   color: #404bbf;
 }
@@ -91,6 +95,14 @@ ul {
   cursor: pointer;
 }
 
+.main-btn:hover {
+  background-color: #404bbf;
+}
+
+.main-btn:focus {
+  background-color: #404bbf;
+}
+
 .main-btn:active {
   color: #404bbf;
 }
@@ -111,7 +123,7 @@ ul {
 }
 
 .sectin-ourteam {
-  background: var(--CLOUD, #f4f4fd);
+  background-color: #ffffff;
 }
 
 .title {
