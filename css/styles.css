@@ -36,7 +36,7 @@ ul {
 }
 
 .header-item-link {
-  color: #404bbf;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -87,7 +87,7 @@ ul {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  background: #404bbf;
+  background: #4d5ae5;
   cursor: pointer;
 }
 
